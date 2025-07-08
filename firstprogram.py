@@ -21,46 +21,43 @@ data = {
         "Age": 43,
         "Gender": "Male",
         "Date of Birth": "22-August-1982",
-        "Hobbies": ["Gym", "Playing Cricket"],
-    "Saira Danish":{
-       "Age": 37,
+        "Hobbies": ["Gym", "Playing Cricket"]
+    },
+    "Saira Danish": {
+        "Age": 37,
         "Gender": "Female",
-        "Date of Birth": "19-February- 1988",
-        "Hobbies": ["Cooking", "Making YouTube videos"] ,
-        "Hafsa Danish":
-        "Age": 17
-        "Gender" : "Female"
-        "Date of Birth" : "3-April-2008"
-        "Hobbies": ["Painting","Photography","Overthinking"],
-         "Fatima Danish":
-        "Age": 15
-        "Gender" : "Female"
-        "Date of Birth" : "14-July-2010"
-        "Hobbies": ["Playing Roblox","Wasting time"
-    ,"Making Pasta"],
-    "Zainab Danish":
-        "Age": 11
-        "Gender" : "Female"
-        "Date of Birth" : "25-June-2014"
-        "Hobbies": ["Reading",""
-    ,"Coding", "Cycling"],
-      "Khadija Danish":
-        "Age": 7 
-        "Gender" : "Female"
-        "Date of Birth" : "11-Nov-2017"
-        "Hobbies": ["Playing with yahya",
-    ,"Sleeping", "Drawing"],
-      "Yahya Wajih":
-        "Age": 3
-        "Gender" : "Male"
-        "Date of Birth" : "12-June-2021"
-        "Hobbies": ["Cycling","Eating"
-    ,"Teasing mother"]
-        
-        
-        
-    }
-
+        "Date of Birth": "19-February-1988",
+        "Hobbies": ["Cooking", "Making YouTube videos"]
+    },
+    "Hafsa Danish": {
+        "Age": 17,
+        "Gender": "Female",
+        "Date of Birth": "3-April-2008",
+        "Hobbies": ["Painting", "Photography", "Overthinking"]
+    },
+    "Fatima Danish": {
+        "Age": 15,
+        "Gender": "Female",
+        "Date of Birth": "14-July-2010",
+        "Hobbies": ["Playing Roblox", "Wasting time", "Making Pasta"]
+    },
+    "Zainab Danish": {
+        "Age": 11,
+        "Gender": "Female",
+        "Date of Birth": "25-June-2014",
+        "Hobbies": ["Reading", "Coding", "Cycling"]
+    },
+    "Khadija Danish": {
+        "Age": 7,
+        "Gender": "Female",
+        "Date of Birth": "11-Nov-2017",
+        "Hobbies": ["Playing with Yahya", "Sleeping", "Drawing"]
+    },
+    "Yahya Wajih": {
+        "Age": 3,
+        "Gender": "Male",
+        "Date of Birth": "12-June-2021",
+        "Hobbies": ["Cycling", "Eating", "Teasing mother"]
     }
 }
 
